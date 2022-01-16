@@ -1,0 +1,9 @@
+{
+  "name": "scripturam",
+  "version": "1.0.0",
+  "description": "Simple rich text",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigoazv/scripturam.git",
+  "author": "Rodrigo Azevedo' <rodrigozcma@gmail.com>",
+  "license": "MIT"
+}
